@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github = process.env.GITHUB || "https://github.com/HyHamza/BYTE-MD";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaNRcHSJP2199iMQ4W0l";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/12e9905cf97dbefea8e10.png";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/dc1f59992d23a3213c3a8.jpg";
 global.devs = "923072380380";
 global.sudo = process.env.SUDO || "923080504354";
 global.owner = process.env.OWNER_NUMBER || "923080504354";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "*Powered By Sana Baloch*",
-  author: process.env.PACK_AUTHER || "Sana Baloch",
+  caption: process.env.CAPTION || "*Powered By Qurab Baloch*",
+  author: process.env.PACK_AUTHER || "🆀🆄🆁🅰🅱",
   packname: process.env.PACK_NAME || "♥️",
-  botname: process.env.BOT_NAME || "Abdullah Md",
-  ownername: process.env.OWNER_NAME || "MUZAN",
+  botname: process.env.BOT_NAME || "🆀🆄🆁🅰🅱",
+  ownername: process.env.OWNER_NAME || "🆀🆄🆁🅰🅱",
   errorChat: process.env.ERROR_CHAT || "923072380380",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
